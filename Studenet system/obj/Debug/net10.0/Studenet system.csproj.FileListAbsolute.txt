@@ -1,0 +1,15 @@
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\bin\Debug\net10.0\Studenet system.exe
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\bin\Debug\net10.0\Studenet system.deps.json
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\bin\Debug\net10.0\Studenet system.runtimeconfig.json
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\bin\Debug\net10.0\Studenet system.dll
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\bin\Debug\net10.0\Studenet system.pdb
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\Studenet system.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\Studenet system.AssemblyInfoInputs.cache
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\Studenet system.AssemblyInfo.cs
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\Studenet system.csproj.CoreCompileInputs.cache
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\Studenet system.dll
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\refint\Studenet system.dll
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\Studenet system.pdb
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\Studenet system.genruntimeconfig.cache
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\ref\Studenet system.dll
+D:\C#NET\Task student managmenet system\Studenet system\Studenet system\obj\Debug\net10.0\Studenet system.sourcelink.json
